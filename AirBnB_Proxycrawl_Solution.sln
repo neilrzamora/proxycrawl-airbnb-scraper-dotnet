@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirBnB_Proxycrawl", "AirBnB_Proxycrawl_Solution\AirBnB_Proxycrawl\AirBnB_Proxycrawl.csproj", "{11B492F4-5850-4B35-9E5E-3DC342814B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B492F4-5850-4B35-9E5E-3DC342814B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B492F4-5850-4B35-9E5E-3DC342814B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B492F4-5850-4B35-9E5E-3DC342814B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B492F4-5850-4B35-9E5E-3DC342814B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641C85AA-2369-47D1-A07C-737D45D6E7E4}
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,4 @@
-# proxycrawl-airbnb-scraper-dotnet
-How to Extract Airbnb Pages Using ProxyCrawl in .NET
+# How to Extract Airbnb Pages Using ProxyCrawl in .NET
+
+## Dependencies
+- [ ProxyCrawl library for .NET](https://proxycrawl.com/crawling-libraries-sdk)
